@@ -1,0 +1,4 @@
+Update chocolatey > cup
+
+Update node.js windows using choco > cup nodejs.install
+	
